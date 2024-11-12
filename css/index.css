@@ -1,24 +1,4 @@
-body{
-    background-image: url(../img/bg01.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    height: 100%;
-}
 
-html, body {
-    height: 100%;
-    margin: 0;
-  }
-  
-.full-height {
-    background: rgba(26, 26, 26, 0.548);
-    background-attachment: fixed;
-    max-height: 100vh;
-    height: 100vh;
-
-
-}
 table{
     width: 100%;
     padding-top: 5px;
