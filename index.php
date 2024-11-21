@@ -9,10 +9,10 @@ session_start();
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-		<title>Doccure</title>
+		<title>Vedanta Heath Care</title>
 		
 		<!-- Favicons -->
-		<link type="image/x-icon" href="assets/img/favicon.png" rel="icon">
+		<link type="image/x-icon" href="assets/img/logo192.png" rel="icon">
 		
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">

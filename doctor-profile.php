@@ -14,11 +14,11 @@ $id=$_GET['id'];
 	
 <head>
 		<meta charset="utf-8">
-		<title>Doccure</title>
+		<title>Vedanta Heath Care</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 		
 		<!-- Favicons -->
-		<link href="assets/img/favicon.png" rel="icon">
+		<link href="assets/img/logo192.png" rel="icon">
 		
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -84,7 +84,7 @@ $id=$_GET['id'];
 										<div class="clinic-details">
 											<p class="doc-location"><i class="fas fa-map-marker-alt"></i> <?= $p['state'].", ". $p['country'] ?></p>
 											<p class="doc-location">
-												<i class="far fa-money-bill-alt"></i>  <?= $p['price']. "£"?>
+												<i class="far fa-money-bill-alt"></i>  <?= $p['price']. "₹"?>
 											</p>
 										</div>
 									</div>

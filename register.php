@@ -53,11 +53,11 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
 	
 <head>
 		<meta charset="utf-8">
-		<title>Doccure</title>
+		<title>Vedanta Heath Care</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 		
 		<!-- Favicons -->
-		<link href="assets/img/favicon.png" rel="icon">
+		<link href="assets/img/logo192.png" rel="icon">
 		
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -93,7 +93,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
 							<div class="account-content">
 								<div class="row align-items-center justify-content-center">
 									<div class="col-md-7 col-lg-6 login-left">
-										<img src="assets/img/login-banner.png" class="img-fluid" alt="Doccure Register">	
+										<img src="assets/img/login-banner.png" class="img-fluid" alt="Vedanta Heath Care Register">	
 									</div>
 									<div class="col-md-12 col-lg-6 login-right">
 										
